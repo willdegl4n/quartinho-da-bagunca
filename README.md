@@ -1,7 +1,7 @@
 # quartinho-da-bagunca
 Testes e códigos avulsos para o dia a dia sem a organização
 
-#Icones 
+# Tech_Icon
 <div style="display: inline_block">
   <img align="center" alt="SQLServer"    height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
   <img align="center" alt="Oracle"       height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
